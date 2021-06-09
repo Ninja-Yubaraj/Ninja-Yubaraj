@@ -60,6 +60,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 ## Likes
+- 🎮 Competitive / Casual Gaming
 - 🖥️ Bleeding edge technology
 - 📺 Anime
 - 🗺️ Travelling
