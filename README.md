@@ -63,7 +63,7 @@
 - 📺 Anime
 - 🗺️ Travelling
 - 🍔 Foodie
-- [Read More](https://github.com/Ninja-Yubaraj/Likes "My Likes")
+- [Read More][website]
 
 
 
