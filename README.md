@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 My Goals: Contribute more to Open Source projects and learn as much as I can
+- 💬 Ask me about anything [here][issues]
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 
@@ -56,6 +57,7 @@ My name is Yubaraj Sarkar. I'm a self-taught Cybersecurity engineer and Develope
 
 
 [website]: https://Ninja-Yubaraj.github.io
+[issues]: https://github.com/Ninja-Yubaraj/Ninja-Yubaraj/issues
 [gmail]: yubarajsarkar2001@gmail.com
 [github]: https://github.com/Ninja-Yubaraj
 [spotify]: https://open.spotify.com/user/ci5jaqt34v0agduuwkxtyz9s5
