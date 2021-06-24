@@ -1,16 +1,21 @@
-### Hi there, I'm Yubaraj - aka [Ninja_Yubaraj][website]
+### Hi there, I'm Yubaraj - aka [Ninja_Yubaraj][website] 👋
 
 [![Website](https://img.shields.io/website?label=Ninja-Yubaraj.github.io&style=for-the-badge&url=https://Ninja-Yubaraj.github.io)](https://Ninja-Yubaraj.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YubarajSarkar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNinja-Yubaraj&screen_name=YubarajSarkar)
 
-## I'm a
-- 📘 Learner
-- ⌨️ Developer
-- 🐱‍💻 Cybersecurity engineer
-- 🔍 Researcher
-- 🎮 Competitive Esports Player
-- 👨‍🏫 Teacher
-- ~~🚁 Attack Helicopter~~
+## I'm a Cybersecurity engineer, Full stack developer and Teacher!!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 My Goals: Contribute more to Open Source projects and learn as much as I can
+- ⚡ Fun fact: I love to draw and play guitar / piano
+
+
+
+## Bio
+My name is Yubaraj Sarkar. I'm a self-taught Cybersecurity engineer and Developer based in India. My main focus has mostly been on Vulnerability Assessment and Penetration Testing, still along the way I taught myself Frontend and Backend Development. I can also handle all the work of databases, servers, systems engineering, clients and I'm very proficient in it.
+
+## Maybe Try Hiring Me
+[Here's][website] My Resume, Maybe we will meet in the distant future of a certain dimension if you liked it.
 
 ## Connect With Me
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,23 +52,6 @@
 <br />
 
 ---
-
-## Maybe Try Hiring Me
-[Here's][website] My Resume, Maybe we will meet in the distant future of a certain dimension if you liked it.
-
-## More About Me
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 My Goals: Contribute more to Open Source projects and learn as much as I can
-- ⚡ Fun fact: I love to draw and play guitar / piano
-
-## Likes
-- 🎮 Competitive / Casual Gaming
-- 🖥️ Bleeding edge technology
-- 📺 Anime
-- 🗺️ Travelling
-- 🍔 Foodie
-- [Read More][website]
 
 
 
