@@ -16,7 +16,7 @@
 My name is Yubaraj Sarkar. I'm a self-taught Cybersecurity engineer and Developer based in India. My main focus has mostly been on Vulnerability Assessment and Penetration Testing, still along the way I taught myself Frontend and Backend Development. I can also handle all the work of databases, servers, systems engineering, clients and I'm very proficient in it.
 
 ## Maybe Try Hiring Me
-Here's My [Resume][website] and [Email][gmail], Maybe we will meet in the distant future of a certain dimension if you liked it.
+Here's My [Resume][website] and [Contact Email][gmail]. Maybe we will meet in the distant future of a certain dimension if you liked my works.
 
 ## Connect With Me
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
