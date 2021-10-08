@@ -1,4 +1,6 @@
-### Hi there, I'm Yubaraj - aka [Ninja_Yubaraj](https://www.google.com/search?q=Ninja_Yubaraj) 👋
+<img src="assets/svg/header_en.svg"></img>
+
+### I'm Yubaraj - aka [Ninja_Yubaraj](https://www.google.com/search?q=Ninja_Yubaraj) 👋
 
 [![Website](https://img.shields.io/website?label=Ninja-Yubaraj.github.io&style=for-the-badge&url=https://Ninja-Yubaraj.github.io)](https://Ninja-Yubaraj.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YubarajSarkar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNinja-Yubaraj&screen_name=YubarajSarkar)
